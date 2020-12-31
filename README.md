@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">A Young developer from India</h3>
+<h3 align="center">A CSE Student from India</h3>
 
-- 🔭 I’m currently working on **MoviesDB**
+- 🔭 I’m currently working on **MoviesDB android application**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin and CP**
 
 - 💬 Ask me about **Android, JAVA, C++**
 
