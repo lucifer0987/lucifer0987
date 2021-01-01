@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin and CP**
 
-- 💬 Ask me about **Android, JAVA, C++**
+- 💬 Ask me about anything..i know everything..✌
 
 - 📫 How to reach me **gaurv1407@gmail.com**
 
