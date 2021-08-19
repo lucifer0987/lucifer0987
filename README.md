@@ -11,6 +11,7 @@
 - [Vaccine Alerter 📱](https://github.com/lucifer0987/Vaccine-Alerter)
 - [Cardfy 📱 💻](https://github.com/lucifer0987/Cardfy/)
 - [Memory Game 📱](https://github.com/lucifer0987/Kotlin-Android-Projects/tree/main/MemoryGame/)
+- [Split Monk 📱](https://github.com/lucifer0987/Split-Monk)
 - [Collab 📱](https://github.com/lucifer0987/HackVerse_2.0-No_Goals-)
 - [Covid 19 Dashboard 📱](https://github.com/lucifer0987/Covid-19-Dashboard)
 
