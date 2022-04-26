@@ -8,9 +8,11 @@
 
 ## :pencil2: My Works: :trophy:
 
+- [Android Color Picker 📱](https://github.com/lucifer0987/Android-Color-Picker)
 - [Vaccine Alerter 📱](https://github.com/lucifer0987/Vaccine-Alerter)
 - [Cardfy 📱 💻](https://github.com/lucifer0987/Cardfy/)
 - [Split Monk 📱](https://github.com/ishaandwivedi1234/split-monk-hackJNU2.0)
+- [Online Code Editor 💻](https://github.com/lucifer0987/Code-Editor)
 - [Memory Game 📱](https://github.com/lucifer0987/Kotlin-Android-Projects/tree/main/MemoryGame/)
 - [Collab 📱](https://github.com/lucifer0987/HackVerse_2.0-No_Goals-)
 - [Covid 19 Dashboard 📱](https://github.com/lucifer0987/Covid-19-Dashboard)
