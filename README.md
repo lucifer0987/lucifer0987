@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Gaurav Kumar
 
-- 🔭 I’m currently working on projects: @Anther
-- 🌱 I’m currently improving my coding skills and gaming as well 😅
+- 🌱 I’m currently improving my Android skills and learn about fullstack development
 - 💬 Ask me about Android Development and Competitive Coding
 - 🏛️ 2023 CSE Student at JUET Guna :india:
+- 🏛️ Group SDE 1 @ DP World
 
 ## :pencil2: My Works: :trophy:
 
