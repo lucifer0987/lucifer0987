@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gaurav Kumar
 
-- 🌱 I’m currently improving my Android skills and learn about fullstack development
+- 🌱 I’m currently improving my Android skills and learning about full-stack development
 - 💬 Ask me about Android Development and Competitive Coding
 - 🏛️ 2023 CSE Student at JUET Guna :india:
 - 🏛️ Group SDE 1 @ DP World
