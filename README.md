@@ -4,7 +4,6 @@
 - 🌱 I’m currently improving my coding skills and gaming as well 😅
 - 💬 Ask me about Android Development and Competitive Coding
 - 🏛️ 2023 CSE Student at JUET Guna :india:
-- 🥅 2023 Goals: Make real world impacts.
 
 ## :pencil2: My Works: :trophy:
 
